@@ -81,6 +81,6 @@ pipeline {
                 echo 'Packaging'
                 sh 'mvn package'
             }
-        }
-    }*/
+        }*/
+    }
 }
