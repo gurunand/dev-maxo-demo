@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'Master' }
+   /* agent { label 'Master' }*/
     
     stages {
     	/*stage ('Code Analysis'){
